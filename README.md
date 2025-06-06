@@ -15,6 +15,7 @@ I’m a passionate 17 year old backend developer with a deep love for building s
 
 ## 🏆 Experience
 
+- 🎓 **Politecnico di Torino** — Student Representative, representing student voices
 - 🔧 **ASTRA Team Polito** — IT Team Member, driving backend innovations
 - 🚗 **Squadra Corse DRIVERLESS | PoliTO** — Algorithm Developer for autonomous driving
 - ✈️ **Krivetz Aeronautics** — Led software projects, system architecture
