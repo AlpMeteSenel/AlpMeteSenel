@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate 17 year old backend developer with a deep love for building scalable, efficient applications. My coding journey began at 6 years old, and before my 7th birthday, I had already built a line-following robot. Since then, I’ve been competing in robotics tournaments across multiple countries, staying curious and hungry for more!
+I’m a passionate 18 year old backend developer with a deep love for building scalable, efficient applications. My coding journey began at 6 years old, and before my 7th birthday, I had already built a line-following robot. Since then, I’ve been competing in robotics tournaments across multiple countries, staying curious and hungry for more!
 
 ---
 
